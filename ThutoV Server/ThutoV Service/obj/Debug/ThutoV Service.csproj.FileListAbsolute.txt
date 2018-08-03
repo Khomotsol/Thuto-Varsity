@@ -1,0 +1,6 @@
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV Server\ThutoV Service\bin\ThutoV Service.dll.config
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV Server\ThutoV Service\bin\ThutoV Service.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV Server\ThutoV Service\bin\ThutoV Service.pdb
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV Server\ThutoV Service\obj\Debug\ThutoV Service.csprojResolveAssemblyReference.cache
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV Server\ThutoV Service\obj\Debug\ThutoV Service.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV Server\ThutoV Service\obj\Debug\ThutoV Service.pdb

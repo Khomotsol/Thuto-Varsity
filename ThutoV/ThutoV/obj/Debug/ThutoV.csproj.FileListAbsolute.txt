@@ -1,0 +1,40 @@
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\csc.exe
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\vbc.exe
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\VBCSCompiler.exe
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\ThutoV.dll.config
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\ThutoV.dll
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\ThutoV.pdb
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\obj\Debug\ThutoV.csprojResolveAssemblyReference.cache
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\obj\Debug\ThutoV.dll
+c:\users\kamogelo\documents\visual studio 2015\Projects\ThutoV\ThutoV\obj\Debug\ThutoV.pdb
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\csc.exe
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\vbc.exe
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\VBCSCompiler.exe
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\ThutoV.dll.config
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\ThutoV.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\ThutoV.pdb
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\obj\Debug\ThutoV.csprojResolveAssemblyReference.cache
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\obj\Debug\ThutoV.dll
+C:\Users\KAMOGELO\Documents\Thuto\ThutoV\ThutoV\obj\Debug\ThutoV.pdb
